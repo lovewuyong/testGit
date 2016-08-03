@@ -1,2 +1,2 @@
 # testGit
-Practice the Git
+Practice the Git 联系使用Git 和Github
