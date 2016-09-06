@@ -1,0 +1,23 @@
+{
+  "name": "teststudy",
+  "version": "1.0.0",
+  "description": "Practice the Git 联系使用Git 和Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovewuyong/testGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovewuyong/testGit/issues"
+  },
+  "homepage": "https://github.com/lovewuyong/testGit#readme",
+  "dependencies": {
+    "mint-ui": "^0.2.8",
+    "vue": "^1.0.26"
+  }
+}
